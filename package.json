@@ -21,7 +21,8 @@
     "gulp": "~5.0.0",
     "husky": "^7.0.0",
     "lint-staged": "^12.3.3",
-    "shelljs": "^0.8.5"
+    "shelljs": "^0.8.5",
+    "webpack-cli": "^5.1.4"
   },
   "lint-staged": {
     "*.{gif,mp4,jpg,png,GIF,MP4,JPG,PNG}": [
